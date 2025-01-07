@@ -1,2 +1,2 @@
-# ps99moddedr
-FREE PS99
+# PETSGOmodded
+FREE PETS GO
